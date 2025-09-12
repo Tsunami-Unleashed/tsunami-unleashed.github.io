@@ -1,0 +1,53 @@
+baseURL = "https://tsunami-unleashed.github.io/"
+languageCode = "en-us"
+title = "Tsunami Unleashed"
+theme = "hugo-product-launch"
+
+# This is a "one page"-website, so we do not need these kinds of pages...
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT", "404"]
+
+defaultContentLanguage = "en"
+
+# Render line-breaks in .md-files as line-breaks in HTML.
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            hardWraps = true
+
+[params]
+    # A "copyright"-line to be added at the bottom of the page.
+    copyright = "© Tsunami Unleashed - A Christian Ministry Organization"
+
+    # The "description" of your website.
+    description = "Join our Christian volunteer mission to build AI-powered translation technology for devotionals, sermons, and Christian content. Help us share spiritual encouragement worldwide."
+
+    # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
+    favicon = "images/favicon.png"
+
+    # These "images" are used for the structured data templates.
+    images = ["images/share-image.png"]
+
+    # Another "title" for opengraph.
+    title = "Tsunami Unleashed"
+
+    [params.meta]
+        keywords = "Christian devotionals, Christian AI, devotional translation, Christian content, sermons translation, Christian volunteers, ministry technology, faith sharing"
+
+# Tailwind CSS build configuration for Hugo.
+[build]
+  [build.buildStats]
+    enable = true
+  [[build.cachebusters]]
+    source = 'assets/notwatching/hugo_stats\.json'
+    target = 'css'
+  [[build.cachebusters]]
+    source = '(postcss|tailwind)\.config\.js'
+    target = 'css'
+[module]
+  [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+  [[module.mounts]]
+    disableWatch = true
+    source = 'hugo_stats.json'
+    target = 'assets/notwatching/hugo_stats.json'
