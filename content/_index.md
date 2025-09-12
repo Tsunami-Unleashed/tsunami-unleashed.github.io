@@ -5,7 +5,7 @@ header_button_cta:
   url: "#volunteer-form"
   title: "Join the Mission"
 header_button_more:
-  url: "#how-to-help"
+  url: "#how-you-can-serve-this-ministry"
   title: "How You Can Help"
 ---
 
@@ -24,7 +24,7 @@ Ready to use your gifts for God's glory? We need dedicated believers to help us 
 God has equipped His people with diverse gifts to build His kingdom:
 
 **💻 Developers & Engineers**  
-Build AI models and platforms to translate devotionals and sermons
+Build AI models and platforms to translate devotionals and other Christian content
 
 **✍️ Writers & Translators**  
 Ensure devotionals and Christian content maintain their spiritual impact
