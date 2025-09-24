@@ -1,46 +1,54 @@
 ---
-header_brand: "Tsunami Unleashed"
-header_tagline_paragraph: "Breaking down language barriers to share Christian content worldwide. We're building an AI-powered translation platform for devotionals and Christian resources, making spiritual growth accessible in other languages. Ready to help spread encouragement globally?"
-header_button_cta:
-  url: "#volunteer-form"
-  title: "Join the Mission"
-header_button_more:
-  url: "#how-you-can-serve-this-ministry"
-  title: "How You Can Help"
+header_brand: "🌊 Tsunami Unleashed"
 ---
+**Technology fueling exponential discipleship, leadership, and church reproduction.**
 
-# Sharing Faith Across Every Language
+We believe the next decade can see **1 billion people become disciples of Jesus** through tools and relationships that will exponentially reproduce disciples, leaders, and communities of Christ.
 
-Tsunami Unleashed is a Christian non-profit dedicated to using artificial intelligence to translate devotionals and other spiritual resources into other languages. We believe that encouragement, teaching, and spiritual growth materials should be accessible to all believers, in their heart language.
+Our starting point is **translation** — because God’s Word and life-giving training must be accessible to everyone in their **heart language**. From there, we’ll move into **distribution** and other scalable systems that support the global disciple-making, leader-raising, and church-reproducing movement.
 
-We're seeking faithful volunteers who share our passion for spreading Christian content through cutting-edge translation technology that serves the global Church.
+## 🚀 Why Translation First?
 
-Ready to use your gifts for God's glory? We need dedicated believers to help us create translation technology that will make devotionals, sermons, and Christian resources available worldwide. Whether you're a developer, linguist, theologian, or simply someone with a heart for missions - God can use your talents.
+Billions still lack access to discipleship resources in their language. That’s where we begin:
 
-{{< contact_form id="volunteer-form" placeholder_name="Your Name" placeholder_email="Email Address" placeholder_message="Tell us about your skills and heart for missions" button_label="Serve With Us ✝️">}}
+- Simple, **mobile-centric** tools anyone can use.
+- Support for **collaborative translation and review**.
+- Built for **low bandwidth and global accessibility**.
 
-# How You Can Serve This Ministry
+This is the first wave. Many more will follow.
 
-God has equipped His people with diverse gifts to build His kingdom:
+## 🌱 What’s Coming
+As our team grows, we’ll launch **multiple projects concurrently**, all designed to accelerate exponential growth:
 
-**💻 Developers & Engineers**  
-Build AI models and platforms to translate devotionals and other Christian content
+- **Distribution platforms** — delivering resources into millions of hands.
+- **AI-assisted tools** — translation, editing, and quality review at scale.
+- **Training and coaching systems** — equipping leaders and reproducing Christ communities.
+- **Communications systems** — enabling global connection, sharing, and coordination.
+- **Administration systems** — streamlining movement-wide collaboration across the world.
+- **Lightweight mobile apps** — discipleship and multiplication, anywhere and everywhere.
 
-**✍️ Writers & Translators**  
-Ensure devotionals and Christian content maintain their spiritual impact
+## 🤝 Why Get Involved Now?
+- Be part of the **ground floor** of a global tech-for-mission movement.
+- Shape the **architecture** before it scales worldwide.
+- Use your skills to help **make disciples, raise leaders, and reproduce churches** on an exponential level.
+- Collaborate with innovators passionate about **eternal impact**.
+- Contribute to a vision that is **open-handed** — all resources are released **freely under CC0 (Public Domain)** so the global body of Christ can adapt, reuse, and multiply without restriction.
 
-**💼 Project Managers**  
-Coordinate efforts and keep our mission on track
 
+##🔧 How You Can Contribute
+- ⭐ Star this repo to support the vision.
+- 🛠️ Explore open issues and jump in.
+- 💡 Share ideas in Discussions.
+- 🌍 Help design the **translation editor** for global use.
 
----
+We welcome **developers, designers, linguists, and innovators** who want their work to count for something bigger.
 
-# Join Our Ministry Team
+## 📖 Learn More
+- 🌐 Website (Coming Soon)
+- 📩 Contact: info@tsunamiunleashed.org
+- 💬 WhatsApp: 623-221-8671
 
-Ready to serve in spreading Christian encouragement? Connect with us:
+___________________________________________
 
-**Tsunami Unleashed**  
-Email: [volunteers@tsunamiunleashed.com](mailto:volunteers@tsunamiunleashed.com)  
-GitHub: [github.com/tsunami-unleashed](https://github.com/tsunami-unleashed)  
-
-This is a faith-based, volunteer-driven ministry. Together, we can make Christian devotionals and spiritual resources accessible to believers worldwide through AI technology dedicated to His glory.
+🔥 **Your code can exponentially reproduce disciples.**
+Join us as we unleash a global tsunami of hope through translation, distribution, communication, administration, training, coaching and exponential reproduction.
