@@ -35,7 +35,7 @@ As our team grows, we’ll launch **multiple projects concurrently**, all design
 - Contribute to a vision that is **open-handed** — all resources are released **freely under CC0 (Public Domain)** so the global body of Christ can adapt, reuse, and multiply without restriction.
 
 
-##🔧 How You Can Contribute
+## 🔧 How You Can Contribute
 - ⭐ Star this repo to support the vision.
 - 🛠️ Explore open issues and jump in.
 - 💡 Share ideas in Discussions.
